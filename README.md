@@ -29,5 +29,5 @@ Pass me the popcorn, please! 🍿
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/cinema-seats-manager.git
+   git clone https://github.com/emprors/cinema-seats-manager.git
    cd cinema-seats-manager
